@@ -1,1 +1,5 @@
 test case1
+Test case title: Test1
+Steps to reproduce: 1, 2, 3
+Expected result:
+Actual result:
